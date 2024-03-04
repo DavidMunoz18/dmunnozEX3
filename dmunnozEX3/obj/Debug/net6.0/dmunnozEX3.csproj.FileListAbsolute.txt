@@ -1,0 +1,14 @@
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\obj\Debug\net6.0\dmunnozEX3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\obj\Debug\net6.0\dmunnozEX3.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\obj\Debug\net6.0\dmunnozEX3.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\obj\Debug\net6.0\dmunnozEX3.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\bin\Debug\net6.0\dmunnozEX3.exe
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\bin\Debug\net6.0\dmunnozEX3.deps.json
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\bin\Debug\net6.0\dmunnozEX3.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\bin\Debug\net6.0\dmunnozEX3.dll
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\bin\Debug\net6.0\dmunnozEX3.pdb
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\obj\Debug\net6.0\dmunnozEX3.dll
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\obj\Debug\net6.0\refint\dmunnozEX3.dll
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\obj\Debug\net6.0\dmunnozEX3.pdb
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\obj\Debug\net6.0\dmunnozEX3.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\dmunnozEX3\obj\Debug\net6.0\ref\dmunnozEX3.dll
